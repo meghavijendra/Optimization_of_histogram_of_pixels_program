@@ -1,0 +1,7 @@
+Color.class
+Histogram$HistogramReducer.class
+Histogram$HistogramCombiner.class
+Histogram$HistogramMapper.class
+Histogram$HistogramReducer1.class
+Histogram$HistogramMapper1.class
+Histogram.class
