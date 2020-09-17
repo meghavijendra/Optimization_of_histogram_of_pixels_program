@@ -1,6 +1,6 @@
 # PROJECT DESCRIPTION
 
-The purpose of this project is to improve the performance of the program that creates histograms of pixels developed by using a combiner and in-mapper combining.
+The purpose of this project is to improve the performance of the program that creates histograms of pixels developed by using a <b>combiner</b> and <b>in-mapper combining</b>.
 
 There is two Hadoop Map-Reduce jobs in the same file /src/main/java/Histogram.java. 
 Each one of this Map-Reduce jobs will read the same input file but will produce output to a different output directory: in the Java main program, 
